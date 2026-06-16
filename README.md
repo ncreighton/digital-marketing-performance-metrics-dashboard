@@ -1,2 +1,28 @@
-# digital-marketing-performance-metrics-dashboard
-Professional performance metrics dashboard built for digital marketing operations and growth.
+# Digital Marketing Performance Metrics Dashboard
+
+
+
+---
+
+## Free vs Pro
+
+| Feature | Free | Pro |
+|---------|:----:|:---:|
+| Basic triggers | Yes | Yes |
+| Standard nodes | Yes | Yes |
+| Manual execution | Yes | Yes |
+| Advanced triggers | - | Yes |
+| Custom nodes | - | Yes |
+| Scheduled execution | - | Yes |
+| Error handling | - | Yes |
+| Priority queue | - | Yes |
+| Webhook integrations | - | Yes |
+
+### Upgrade to Pro
+
+Get the full version with all premium features, priority support, and lifetime updates.
+
+**[Get Pro Version](https://buy.stripe.com/dRmfZh4eP2k43lm5bud0t2f)**
+
+- [Buy Now (Stripe)](https://buy.stripe.com/dRmfZh4eP2k43lm5bud0t2f)
+
